@@ -18,3 +18,16 @@
 ✔️ I have been the participant of  Uber HackTag 2.0.
 
 <br>
+
+<h3>🛠 Tech Stack</h3>
+<p>
+- 💻  &nbsp; Data Structures & Algorithms | C++ | Java | Python 
+  </p><p>
+- 🌐  &nbsp; HTML | CSS | JavaScript
+  </p><p>
+- 🐍  &nbsp; Django | Flask | React
+  </p><p>
+- ☁  &nbsp; Microsoft Azure | Operating System | Database | SQL
+  </p><p>
+- 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Git | Github | GitLab
+  </p>
