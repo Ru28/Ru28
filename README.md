@@ -9,7 +9,7 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Rupesh Virani**, currently pursuing my bachelors from Jaypee University of Engineering and Technology (JUET Guna, MP) in *Computer and Science Engineering*. <br>
+✔️ I am **Rupesh Virani**, currently pursuing my bachelors from Jaypee University of Engineering and Technology  in *CSE* Branch. <br>
 
 ✔️ I am interested in development . I also enjoy doing competitive programming and data structures and algorithms. <br>
 
