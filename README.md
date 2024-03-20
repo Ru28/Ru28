@@ -23,11 +23,11 @@
 <p>
 - 💻  &nbsp; Data Structures & Algorithms | C++ | Java | Python 
   </p><p>
-- 🌐  &nbsp; HTML | CSS | JavaScript
+- 🌐  &nbsp; HTML | CSS | Tailwind UI | JavaScript | TypeScript | Bootstrap
   </p><p>
-- 🐍  &nbsp; Django | Flask | React
+- 🐍  &nbsp; React | Redux | Angular | Django | Flask 
   </p><p>
 - ☁  &nbsp; Microsoft Azure | Operating System | Database | SQL
   </p><p>
-- 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Git | Github | GitLab
+- 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Git | Github | GitLab | bitbucket | Jenkins | CI/CD 
   </p>
