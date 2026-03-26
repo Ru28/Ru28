@@ -7,8 +7,8 @@
 <p align="center">
   <a href="mailto:rupeshvirani01@gmail.com">📧 rupeshvirani01@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/rupesh-virani">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/rupeshvirani01">🐙 GitHub</a> &nbsp;|&nbsp;
-  <a href="https://leetcode.com/rupeshvirani01">🧩 LeetCode</a>
+  <a href="https://github.com/ru28">🐙 GitHub</a> &nbsp;|&nbsp;
+  <a href="https://leetcode.com/u/RupeshVirani/">🧩 LeetCode</a>
 </p>
 
 ---
