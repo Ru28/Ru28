@@ -74,7 +74,7 @@
 
 | Company | Role | Impact |
 |---|---|---|
-| **ToolJet** | Solution Engineer | Multi-branch dev workflow · 40% UI latency reduction |
+| **ToolJet** | Software Solution Engineer | Multi-branch dev workflow · 40% UI latency reduction |
 | **EasyBiznus** | Software Engineer I | Bulk upload pipeline · Discount engine · 70% SKU onboarding speedup |
 | **PharmEasy** | SDE Intern | Kafka inventory sync for 60K+ SKUs · 113s → 60ms API optimization |
 
