@@ -87,15 +87,6 @@
 - 🏆 Winner — **Kodeathon** University Annual Coding Contest, 2020
 - ⭐ **4-star** HackerRank · **3-star** CodeChef
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ru28&show_icons=true&theme=default&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ru28&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
 
 ---
 
